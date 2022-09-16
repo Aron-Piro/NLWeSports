@@ -145,7 +145,6 @@ main section:nth-child(3) {
     }
 }
 
-
 @keyframes fromBottom {
     from {
         opacity: 0;
